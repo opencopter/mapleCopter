@@ -1,4 +1,4 @@
 mapleCopter
 ===========
 
-open source copter control on LeafLab maple STM32 platform
+open source copter control on LeafLab Maple STM32 platform
